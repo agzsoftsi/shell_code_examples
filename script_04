@@ -1,0 +1,3 @@
+#!/bin/bash
+# script to list files and directories and groups IDs displayed numerically using ls
+ls -lan
