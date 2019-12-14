@@ -1,0 +1,4 @@
+#!/bin/bash
+# script to list files and directories in long format using command ls -l
+ls -l
+
