@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#print if a number is grater than 5000 
+num=$RANDOM
+if (( $num>5000 ))
+then
+    echo $num is greater tha 5000
+fi
