@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#print content of a variable
+var="Easy Stuff"
+echo $var
