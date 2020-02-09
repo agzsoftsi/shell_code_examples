@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+#print if a number is grater, iqual and less than 50 
+num=$(($RANDOM%100))
+if [ $num -gt 50 ]
+then
+    echo $num is greater than 50
+elif [ $num -eq 50 ]
+then
+    echo $num is iqual to 50
+elif [ $num -lt 50 ]
+then
+    echo $num is less to 50
+fi
+
