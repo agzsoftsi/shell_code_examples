@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#print message Hello carlos
+a=1
+b=2
+echo $(($a+$b))
