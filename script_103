@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+#print message with two variables 
+var1="Carlos"
+var2="Cali"
+echo I am $var1 and I live in $var2
