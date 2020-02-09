@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#print message Hello carlos
+echo Hello Carlos
