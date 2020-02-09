@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+#print if string is null 
+str1="hola"
+str2=""
+if [ -z $str1 ]
+then
+    echo $num is not null
+fi
+if [ -z $str2 ]
+then
+    echo $num is null
+fi
+
