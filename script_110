@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#print numbers from 1 to 10 
+
+for n in {1..10}
+do
+    echo $n
+done
