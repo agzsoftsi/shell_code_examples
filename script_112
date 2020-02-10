@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+#print items in a string
+str1="carlos sabe mucho"
+for s in $str1
+do
+    echo $s
+done
