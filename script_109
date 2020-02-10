@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+#print numbers from 1 to 10 
+con=1
+while [ $con -le 10 ]
+do
+    echo $con
+    (($con++))
+done
